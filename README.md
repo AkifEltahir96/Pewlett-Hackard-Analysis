@@ -4,7 +4,7 @@
 
 The purpose of this analysis is to further prepare for the "silver tsunami" as Pewlett Hackard employees are reaching retirement age. In addition to the previous analysis, here I will determine the amount of employees retiring per title and identify employees who are eligible to participate in a mentorship program.
 
-## Results (do we complete this section based on any additional queries or no?)
+## Results 
 
 Here, I will list four major points from the two analyses I completed:
 1. The positions that will be hit the hardest by the "silver tsunami" are senior engineer and senior staff. Over 28000 employees will be eligible for retirement. ! [Retirement Numbers by Job Title.png] (path/Retirement Numbers by Job Title.png). 
@@ -15,6 +15,8 @@ Here, I will list four major points from the two analyses I completed:
 
 ## Summary 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact? (unsure of this question?)
-
+Find the hiring number averages for the past 4 years (1997-2000).
+Find the retirement averages per year for the last 4 years (1952 - 1955). 
+Subtract the differences and make analyes on this
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? (slightly unsure of this question)?
-
+Do the point 3 and 4 query for departments table.
