@@ -9,7 +9,7 @@ The purpose of this analysis is to prepare for the "silver tsunami" as Pewlett H
 Here, I will list four major points from the two analyses I completed:
 1. The positions that will be hit the hardest by the "silver tsunami" are senior engineer and senior staff. Over 28000 employees will be eligible for retirement. 
 2. Some positions that will not be hit as hard by the "silver tsunami" are the manager and assistant engineer.
-![Retirement Numbers by Job Title](Analysis Project Folder/Pewlett-Hackard-Analysis Folder/Data/Retirement Numbers by Job Title.png). 
+![Retirement Numbers by Job Title](https://github.com/AkifEltahir96/Pewlett-Hackard-Analysis/blob/main/Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/Retirement%20Numbers%20by%20Job%20Title.png). 
 
  
 3. There will be over 400 eligible mentors for the senior staff and engineer positions. 
