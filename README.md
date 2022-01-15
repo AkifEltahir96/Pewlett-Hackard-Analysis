@@ -7,10 +7,17 @@ The purpose of this analysis is to prepare for the "silver tsunami" as Pewlett H
 ## Results 
 
 Here, I will list four major points from the two analyses I completed:
-1. The positions that will be hit the hardest by the "silver tsunami" are senior engineer and senior staff. Over 28000 employees will be eligible for retirement. ! [Retirement Numbers by Job Title.png] (Analysis Project Folder/Pewlett-Hackard-Analysis Folder/Data/Retirement Numbers by Job Title.png). 
-2. Some positions that will not be hit as hard by the "silver tsunami" are the manager and assistant engineer. ! [Retirement Numbers by Job Title.png] (path/Retirement Numbers by Job Title.png).
-3. There will be over 400 eligible mentors for the senior staff and engineer positions. ! [Mentor-Eligibility-Numbers.png] (Analysis Project Folder/Pewlett-Hackard-Analysis Folder/Data/Mentor-Eligibility-Numbers.png).
-4. A point of concern is that we currently have 2 soon-to-be retiring managers ! [Retirement Numbers by Job Title.png] (Analysis Project Folder/Pewlett-Hackard-Analysis Folder/Data/Retirement Numbers by Job Title.png) and no mentorship eligible managers on the current staff ! [Mentor-Eligibility-Numbers.png] (Analysis Project Folder/Pewlett-Hackard-Analysis Folder/Data/Mentor-Eligibility-Numbers.png).
+1. The positions that will be hit the hardest by the "silver tsunami" are senior engineer and senior staff. Over 28000 employees will be eligible for retirement. 
+2. Some positions that will not be hit as hard by the "silver tsunami" are the manager and assistant engineer.
+![Retirement Numbers by Job Title](Analysis Project Folder/Pewlett-Hackard-Analysis Folder/Data/Retirement Numbers by Job Title.png). 
+
+ 
+3. There will be over 400 eligible mentors for the senior staff and engineer positions. 
+![Mentor Eligibility Numbers](https://github.com/AkifEltahir96/Pewlett-Hackard-Analysis/blob/main/Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/Mentor-Eligibility-Numbers.png).
+
+4. A point of concern is that we currently have 2 soon-to-be retiring managers, and no mentorship eligible managers on the current staff.
+![Mentor Eligibility Numbers](https://github.com/AkifEltahir96/Pewlett-Hackard-Analysis/blob/main/Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/Mentor-Eligibility-Numbers.png).
+
 
 ## Summary 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
